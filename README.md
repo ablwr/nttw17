@@ -4,6 +4,10 @@
 
 [Available here](https://youtu.be/n1XYEVtxzU8?t=1h35m15s)  
 
+## Slides  
+
+[Available here](https://ablwr.github.io/nttw17)
+
 ## Transcript
 
 What was the name of my talk? "spec writers: we are just like you!* \*sorta"? I think I'm being a little egregious here by considering myself a specification writer, but that is kind of what I wanted to talk about here today, an impetus to become more egregious.  
